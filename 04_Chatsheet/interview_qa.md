@@ -71,18 +71,6 @@ As the number of features grows, the volume of the space increases exponentially
 
 ---
 
-## 👨‍💻 Author
-
-**Himanshu Kumar**
-
-- 🌐 GitHub: [@himanshu231204](https://github.com/himanshu231204)
-- 💼 LinkedIn: [himanshu231204](https://www.linkedin.com/in/himanshu231204)
-- 🐦 Twitter/X: [@himanshu231204](https://twitter.com/himanshu231204)
-- 📧 Email: himanshu231204@gmail.com
-
-
----
-
 ## Extended Q&A — 100 More Interview Questions
 
 ---
